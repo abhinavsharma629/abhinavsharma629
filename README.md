@@ -6,16 +6,26 @@
 
 <p>
   <em>
-    I am a 4th Year undergraduate from <a href="juet.ac.in"> <b>Jaypee University Of Engineering And Technology</b>, Guna</a>. <br>
+    I am a junior Computer Science undergraduate from <a href="juet.ac.in"> <b>Jaypee University Of Engineering And Technology</b>, Guna</a>. <br>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>System Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with creating technology to elevate under-represented people, full stack development, data structures and algorithms, modile developement
     with the idea of <b>improving</b> himself and wanting <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel each day.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-    <br><b> My motto : BUILD FOR EVERYONE </b>
+    <br>
+    
+   <b> My motto : BUILD FOR EVERYONE </b>
   </em>  
 </p>
 
+
+<br>
+
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **working on my laptop** 💻 or **sleeping** 😴.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* **new Stacks** 💪.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *actively* looking for **Job Opportunities**.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** I am a *Guitarist* 💡
 
 <br>
 
