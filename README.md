@@ -10,7 +10,7 @@
     A budding <b>Software Developer</b> <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Developer.gif" width="30px"> and a <b>System Design    Enthusiast,</b>&nbsp;<img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with creating technology to elevate under-represented people, full stack development, data structures and algorithms, modile developement
     with the idea of <b>improving</b> himself and wanting <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>grow</b> and 
     <b>excel each day.</b> <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Medal.gif" width="20px">
     <br>
     
@@ -21,11 +21,11 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **working on my laptop** 💻 or **sleeping** 😴.
-- <img alt="GIF" src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* **new Stacks** 💪.
-- <img alt="GIF" src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *a technical* **Blogger** 💪.
-- <img alt="GIF" src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/headbang.gif" width="20vw" /> I’m *actively* looking for **Job Opportunities**.
-- <img alt="GIF" src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** I am a *Guitarist* 💡
+- I’m *currently* **coding** 💻 or **sleeping** 😴.
+- I’m *currently learning* **new Stacks** 💪.
+- I’m *a technical* **Blogger** 💪.
+- I’m *actively* looking for **Job Opportunities**.
+- **Fun fact:** I am a *Guitarist* 💡
 
 <br>
 
