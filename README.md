@@ -30,7 +30,9 @@
 <br>
 
 
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavsharma629&show_icons=true&hide_border=true)
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavsharma629&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsharma629&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <br>
 
