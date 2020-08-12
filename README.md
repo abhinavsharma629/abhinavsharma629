@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/abhinav-sharma-839119152/">
     <img align="left" alt="Abhinav Sharma | Linkedin" width="24px" src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/abhinav26925233">
+  <a href="https://twitter.com/abhinav629">
     <img align="left" alt="Abhinav Sharma | Twitter" width="26px" src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="https://medium.com/@abhinavsharma_48007">
