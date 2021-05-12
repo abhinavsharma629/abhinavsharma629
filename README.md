@@ -6,8 +6,9 @@
 
 <p>
   <em>
-    I am a junior Computer Science undergraduate from <a href="juet.ac.in"> <b>Jaypee University Of Engineering And Technology</b>, Guna</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Developer.gif" width="30px"> and a <b>System Design    Enthusiast,</b>&nbsp;<img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+    I am a <b>Software Engineer 1 <a href="https://www.linkedin.com/company/swiggy-in/"> @Swiggy</a></b>.
+    <br /><br />
+    A budding <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Developer.gif" width="30px"> and a <b>System Design    Enthusiast,</b>&nbsp;<img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with creating technology to elevate under-represented people, full stack development, data structures and algorithms, modile developement
     with the idea of <b>improving</b> himself and wanting <b>platform</b> to 
     <b>grow</b> and 
@@ -24,7 +25,7 @@
 - I’m *currently* **coding** 💻 or **sleeping** 😴.
 - I’m *currently learning* **new Stacks** 💪.
 - I’m *a technical* **Blogger** 💪.
-- I’m *actively* looking for **Job Opportunities**.
+- I’m *trying to become a* **Youtuber** 💪.
 - **Fun fact:** I am a *Guitarist* 💡
 
 <br>
@@ -44,7 +45,7 @@
   <a href="https://twitter.com/abhinav629">
     <img align="left" alt="Abhinav Sharma | Twitter" width="26px" src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://medium.com/@abhinavsharma_48007">
+  <a href="https://abhinavsharma-48007.medium.com/">
     <img align="left" alt="Abhinav Sharma | Medium" width="24px" src="https://cdn.svgporn.com/logos/medium.svg" />
   </a>
   <a href="mailto:abhinavsharma629@gmail.com">
