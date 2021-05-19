@@ -2,14 +2,14 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/PC.gif" width="190" />
 
-### <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Hi.gif" width="29px"> **Hello World!** &nbsp;<img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am a <b>Software Engineer 1 <a href="https://www.linkedin.com/company/swiggy-in/"> @Swiggy</a></b>.
     <br /><br />
-    A budding <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Developer.gif" width="30px"> and a <b>System Design    Enthusiast,</b>&nbsp;<img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
-    with creating technology to elevate under-represented people, full stack development, data structures and algorithms, modile developement
+    A budding <b>Software Engineer</b> <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Developer.gif" width="30px"> and a <b>System Design    Enthusiast,</b>&nbsp;<img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+    with creating technology to elevate under-represented people, full stack development, data structures and algorithms, problem solving, modile application developement
     with the idea of <b>improving</b> himself and wanting <b>platform</b> to 
     <b>grow</b> and 
     <b>excel each day.</b> <img src="https://github.com/abhinavsharma629/abhinavsharma629/blob/master/Assets/Medal.gif" width="20px">
@@ -53,5 +53,4 @@
   </a>
 
 <br><br><br><br>
-
-**⭐️ From [Abhinav Sharma](https://github.com/abhinavsharma629)**
+**⭐️ &nbsp; From [Abhinav Sharma](https://github.com/abhinavsharma629)** &nbsp;![counter](https://engmn952k911zhf.m.pipedream.net)
