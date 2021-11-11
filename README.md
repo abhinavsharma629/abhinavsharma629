@@ -22,10 +22,9 @@
 
 <br>
 
-- I’m *currently* **coding** 💻 or **sleeping** 😴.
-- I’m *currently learning* **new Stacks** 💪.
+- I’m *currently* **coding** 💻 or **hiking** ⛰️.
+- I’m *currently learning* **new Stacks** and getting better at current ones.
 - I’m *a technical* **Blogger** 💪.
-- I’m *trying to become a* **Youtuber** 💪.
 - **Fun fact:** I am a *Guitarist* 💡
 
 <br>
