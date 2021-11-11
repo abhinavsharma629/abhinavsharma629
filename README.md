@@ -25,7 +25,7 @@
 - I’m *currently* **coding** 💻 or **hiking** ⛰️.
 - I’m *currently learning* **new Stacks** and improving the **current ones**.
 - I’m *a technical* **Blogger** 💪.
-- **Fun fact:** I am a *Guitarist* 💡
+- **Fun fact:** If I was not a **Software Engineer** I would have been a **mountaineer**, but i love my job. 💡
 
 <br>
 
