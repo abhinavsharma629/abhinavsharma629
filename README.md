@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a <b>Software Engineer 2 <a href="https://www.linkedin.com/company/swiggy-in/"> @Swiggy</a></b>.
+    I am a <b>Software Engineer 2 <a href="https://www.linkedin.com/company/microsoft"> @Microsoft</a></b>.
     <br /><br />
     A budding <b>Software Engineer</b> and a <b>System Design    Enthusiast,<br>who is <b>obsessed</b>
     with creating technology to elevate under-represented people, full stack development, data structures and algorithms, problem solving, modile application developement
